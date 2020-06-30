@@ -1,0 +1,59 @@
+
+.heading
+	{
+	color:8845f4;
+	}
+ .bar{
+	width:75%;
+border:2px solid steelblue;
+border-radius:50px;
+
+}
+.urlsearch{
+border:1px solid grey;
+border-radius:10px;
+margin:5px;
+padding:2px;
+
+}
+.e{
+text-align:right;
+color:steelblue;
+}
+.home{
+border:1px solid grey;
+border-radius:100%;
+padding:4px;
+background-color:grey;
+}
+.sename{
+color:steelblue;
+text-align:center;
+padding:38%;
+font-size:100px;
+font-family:"sans-serif" ;
+
+}
+
+.bart{
+width:25%;
+border:2px solid steelblue;
+border-radius:50px;
+
+}
+.mainsearch{
+align:centre;
+padding:5%;
+}
+.sub{
+color:steelblue;
+border:1px solid steelblue;
+border-radius:25%;
+}
+.search{
+text-align:center;
+}
+.bbar{
+border: 1px  double steelblue;
+border-radius:25px;
+}
